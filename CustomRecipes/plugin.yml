@@ -1,0 +1,4 @@
+main: tk.dccraft.CustomRecipes.Main
+name: DcCraft-CustomRecipe
+description: 'A Custom Recipe Plugin for DcCraft Public Server'
+version: 1
